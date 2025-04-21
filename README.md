@@ -82,6 +82,6 @@ Power BI Dashboard includes:
 | **Microsoft Excel**          | Data exploration and formatting    |
 
 # Reports
-
+[](https://app.powerbi.com/links/fdQo5B9z90?ctid=49ed876e-8aef-4b42-aa9a-f56ee5ab5c38&pbi_source=linkShare).
 ![](https://github.com/mistrychintan/Pizza_Sales_Analysis/blob/main/Home.png).
 ![](https://github.com/mistrychintan/Pizza_Sales_Analysis/blob/main/best.png)
