@@ -81,16 +81,7 @@ Power BI Dashboard includes:
 | **Power BI**                 | Data visualization and dashboarding|
 | **Microsoft Excel**          | Data exploration and formatting    |
 
----
+# Reports
 
-## 📂 Folder Structure
-
-```bash
-📁 Pizza-Sales-Analysis
-├── 📁 SQL Queries
-│   └── pizza_sales_analysis.sql
-├── 📁 Power BI Dashboard
-│   └── Pizza_Sales_Dashboard.pbix
-├── 📁 Excel Data
-│   └── pizza_sales_data.xlsx
-├── 📄 README.md
+![](https://github.com/mistrychintan/Pizza_Sales_Analysis/blob/main/Home.png).
+![](https://github.com/mistrychintan/Pizza_Sales_Analysis/blob/main/best.png)
