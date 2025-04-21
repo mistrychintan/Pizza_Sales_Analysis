@@ -53,6 +53,13 @@ Power BI Dashboard includes:
 
 ---
 
+# 🖥️ Live Dashboard
+## You can explore the interactive Power BI dashboard here:
+[👉View Power BI Dashboard](https://app.powerbi.com/links/fdQo5B9z90?ctid=49ed876e-8aef-4b42-aa9a-f56ee5ab5c38&pbi_source=linkShare)
+
+![](https://github.com/mistrychintan/Pizza_Sales_Analysis/blob/main/Home.png)
+
+![](https://github.com/mistrychintan/Pizza_Sales_Analysis/blob/main/best.png)
 ## ⚙️ Project Workflow
 
 1. **Create a SQL Database**  
@@ -81,8 +88,3 @@ Power BI Dashboard includes:
 | **Power BI**                 | Data visualization and dashboarding|
 | **Microsoft Excel**          | Data exploration and formatting    |
 
-# 🖥️ Live Dashboard
-## You can explore the interactive Power BI dashboard here:
-![👉View Power BI Dashboard](https://app.powerbi.com/links/fdQo5B9z90?ctid=49ed876e-8aef-4b42-aa9a-f56ee5ab5c38&pbi_source=linkShare).
-![](https://github.com/mistrychintan/Pizza_Sales_Analysis/blob/main/Home.png).
-![](https://github.com/mistrychintan/Pizza_Sales_Analysis/blob/main/best.png)
