@@ -1,6 +1,6 @@
-# 🍕 Pizza Sales Store - Data Analysis Project
+# 🍕 Pizza Store Sales - Data Analysis Project
 
-This project is a complete end-to-end Data Analytics case study performed on a **Pizza Sales Store Dataset**, involving data extraction, transformation, loading (ETL), SQL query development, and Power BI dashboard creation.
+This project is a complete end-to-end Data Analytics case study performed on a **Pizza Store Sales Dataset**, involving data extraction, transformation, loading (ETL), SQL query development, and Power BI dashboard creation.
 
 ---
 
